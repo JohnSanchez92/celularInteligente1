@@ -3,7 +3,7 @@ package com.mycompany.celularinteligente1;
 
 /**
  *
- * @author JHON SANCHEZ
+ * @author JHON SANCHEZ y  VC
  */
 public class CelularInteligente1{
 public float tamaño;
