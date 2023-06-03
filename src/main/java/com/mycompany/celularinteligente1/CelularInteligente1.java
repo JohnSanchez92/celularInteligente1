@@ -23,6 +23,7 @@ public CelularInteligente1(float tamaño, String marca, String color, int ram, f
 }  
     public static void main(String[] args) {
     CelularInteligente1 celular1 = new CelularInteligente1(16.5f, "Redmin", "Azul", 4, 2.5f);  
-    System.out.println("Tamaño del celular:" + celular1.tamaño + "\n Marca del celular: " + celular1.marca + "\n Color del celular: " + celular1.color + "\n Ram: " + celular1.ram +"GB"+ "\n Procesador: " + celular1.procesador + "Gz");    
+    System.out.println("Tamaño del celular:" + celular1.tamaño + "\n Marca del celular: " + celular1.marca + "\n Color del celular: " + celular1.color + "\n Ram: " + celular1.ram +"GB"+ "\n Procesador: " + celular1.procesador + "Gz"); 
+    System.out.println("Hola mundo");
     }
 }
